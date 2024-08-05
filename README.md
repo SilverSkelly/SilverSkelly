@@ -4,10 +4,10 @@
 
 <h5> 👨🏽‍💻 I'm currently learning the beginnings of programming as a student at Codecrew code school <h5>
 
-<h5> 📧 How to reach me? Shoot me a mail at: jamesh.h.197442@gmail.com
+<h5> 📧 How to reach me? Shoot me a email at: jamesh.h.197442@gmail.com
 
 
-
+<br>
 <br>
 
 [my blog](https://sidequests.onrender.com/Blog/2024/SliverSkelly/Readme/)
